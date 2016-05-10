@@ -1,5 +1,5 @@
 # Meteor Bootstrap
-A starting point from which a meteor app may be developed.
+A starting point from which a meteor app may be developed. Removes Blaze, adds Angular, ESLint, and ui-routes.
 
 ### Instructions:
 1. Clone repo (`git clone` into folder that will be one level up).
